@@ -160,7 +160,7 @@ Major – The user can see most of the images of dog breeds, except for bulldogs
 2. Open the app at `http://localhost:5173/`.
 3. Log in and navigate to Breeds page.
 4. Click 'bulldog,' 'affenpinscher,' and 'golden-retriever' buttons.
-    ![Breed Page Demo](https://github.com/Kylie-Heiland/QA_Assignment/raw/main/report_media/Breed_Page.mp4)
+    ![Breed Page Demo](./report_media/Breed_Page.gif)
 
 ## Expected Result
 
@@ -354,8 +354,7 @@ Trivial – User can still see their favorite dog breed and the corresponding im
 3. Log in and navigate to Breeds page.
 4. Press the 'show favorite' button. 
 
-<video controls src="./report_media/Favorite_Page.mp4" style="max-width:100%; border-radius:8px;">
-</video>
+![Favorite Page Demo](./report_media/Favorite_Page.gif)
 
 ## Expected Result
 
