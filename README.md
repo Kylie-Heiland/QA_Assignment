@@ -160,7 +160,7 @@ Major – The user can see most of the images of dog breeds, except for bulldogs
 2. Open the app at `http://localhost:5173/`.
 3. Log in and navigate to Breeds page.
 4. Click 'bulldog,' 'affenpinscher,' and 'golden-retriever' buttons.
-    ![Breed Page Demo](./report_media/Breed_Page.mp4)
+    ![Breed Page Demo](https://github.com/Kylie-Heiland/QA_Assignment/raw/main/report_media/Breed_Page.mp4)
 
 ## Expected Result
 
